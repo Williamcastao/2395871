@@ -1,0 +1,23 @@
+h1,h2,h3,h4,h5{
+    text-align: center;
+}
+/*login*/
+.iniciologin{
+    margin-top: 20px;
+}
+.sena{
+    padding-left: 600px;
+    margin-top: 20px;
+}
+.ep1{
+    margin-left: 700px;
+    margin-top: 50px;
+}
+.ep2{
+    margin-left: 700px;
+    margin-top: 20px;
+}
+.botonlogin{
+    margin-left: 750px;
+    margin-top: 20px;
+}
